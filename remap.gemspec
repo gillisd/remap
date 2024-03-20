@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "dry-types", "~> 1.5.1"
   spec.add_dependency "dry-validation", "~> 1.7.0"
   spec.add_dependency "neatjson", "~> 0.9"
-  spec.add_dependency "zeitwerk", "~> 2.5.1"
+  spec.add_dependency "zeitwerk", "~> 2.6"
 end
